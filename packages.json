@@ -1,0 +1,18 @@
+[
+    {
+        "package": "transitreg",
+        "url": "https://github.com/retostauffer/transitreg"
+    },
+    {
+        "package": "gsdata",
+        "url": "https://github.com/retostauffer/gsdata"
+    },
+    {
+        "package": "foehnix",
+        "url": "https://github.com/retostauffer/Rfoehnix"
+    },
+    {
+        "package": "annex",
+        "url": "https://github.com/IEA-EBC-Annex86/annex"
+    }
+]
