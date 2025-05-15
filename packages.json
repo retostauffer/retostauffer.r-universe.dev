@@ -1,5 +1,10 @@
 [
     {
+        "package": "topmodels",
+        "url": "https://github.com/r-forge/topmodels",
+        "subdir": "pkg/topmodels"
+    },
+    {
         "package": "transitreg",
         "url": "https://github.com/retostauffer/transitreg"
     }
