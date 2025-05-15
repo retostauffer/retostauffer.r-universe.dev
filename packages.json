@@ -7,5 +7,13 @@
     {
         "package": "transitreg",
         "url": "https://github.com/retostauffer/transitreg"
+    },
+    {
+        "package": "annex",
+        "url": "https://github.com/IEA-EBC-Annex86/annex"
+    },
+    {
+        "package": "foehnix",
+        "url": "https://github.com/retostauffer/Rfoehnix"
     }
 ]
